@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search results</name>
+   <tag></tag>
+   <elementGuidId>1b61de8a-29db-49ad-99c3-a55a30e35b16</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menu</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-menu</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>SearchBox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ResultsSuper1 Admin1Super2 Admin2Super3 AdminSuper4 AdminSuper6 AdminSuper7 AdminSuper8 AdminSuper9 AdminSuper10 AdminSuper11 AdminSuper12 AdminSuper13 AdminSuper14 AdminSuper15 AdminSuper16 AdminSuper18 AdminSuper19 AdminSuper20 AdminSuper21 AdminSuper81 AdminSuper22 AdminSuper23 AdminSuper25 AdminSuper31 AdminSuper41 AdminSuper51 AdminSuper52 AdminSuper AdminSuper AdminSuper AdminSuperNaN AdminNaN</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;configure&quot;)/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[@class=&quot;page-container&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;mb-3 mb-md-0 col-md-4 col-xs-12&quot;]/div[@class=&quot;src-components-table-toolbar-style__tableSearchBox src-components-search-box-style__searchBox&quot;]/div[@class=&quot;dropdown open btn-group&quot;]/ul[@class=&quot;dropdown-menu&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='configure']/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/ul</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Roles (1,842)'])[1]/following::ul[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul</value>
+   </webElementXpaths>
+</WebElementEntity>

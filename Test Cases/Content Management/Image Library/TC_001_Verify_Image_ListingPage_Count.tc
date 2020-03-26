@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_Verify_Image_ListingPage_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcbf263e-74c1-4af8-8e8c-feac50690a43</testCaseGuid>
+</TestCaseEntity>

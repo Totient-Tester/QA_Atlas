@@ -25,7 +25,3 @@ WebUI.sendKeys(findTestObject('PlatformNavigation/Login/password_text_box'), 'To
 
 WebUI.click(findTestObject('PlatformNavigation/Login/login_btn'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PlatformNavigation/Login/myaccount'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('PlatformNavigation/Logout/logout'), FailureHandling.STOP_ON_FAILURE)
-
