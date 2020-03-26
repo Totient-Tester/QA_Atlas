@@ -19,6 +19,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://atlas-dev.gsm.auto/')
 
+WebUI.maximizeWindow()
+
 WebUI.sendKeys(findTestObject('PlatformNavigation/Login/email_text_box'), 'navaraj@totient.co.in')
 
 WebUI.sendKeys(findTestObject('PlatformNavigation/Login/password_text_box'), 'Totient@123')
